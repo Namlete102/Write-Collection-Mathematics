@@ -1,7 +1,7 @@
-|[Trang chủ](/README.md)|[Lưu trữ](./archive.md)|[Thẻ](./tag.md)|[Giới thiệu](./about.md)|
+|[Trang chủ](https://namlete102.github.io/Write-Collection-Mathematics/)|[Lưu trữ](https://namlete102.github.io/Write-Collection-Mathematics/archive.html)|[Thẻ](https://namlete102.github.io/Write-Collection-Mathematics/tag.html)|[Giới thiệu](https://namlete102.github.io/Write-Collection-Mathematics/about.html)|
 
 <div align="center">
-    <b>Mathematics as Culture and Knowledge - Toán học như văn hóa và tri thức</b></h4>
+    <h2><b>Mathematics as Culture and Knowledge - Toán học như văn hóa và tri thức</b></h2>
 </div>
 
 **Tác giả**: Matilde Marcolli, Max-Planck-Institut für Mathematik, Bonn.
@@ -53,5 +53,6 @@ Cố gắng hiểu toán học được tạo ra trong não bộ như thế nào
 
 Câu trả lời cuối cùng, nếu ai đó cần, cho câu hỏi là tại sao chúng ta làm toán, là do chúng ta tìm thấy niềm vui khi làm vậy. Nó là một phụ phẩm của tiến hóa bằng chọn lọc tự nhiên mà chúng ta chiết xuất ra sự vui thú từ việc làm những thứ có lợi cho sự sinh tồn của bộ gene chúng ta. Toán học có lợi cho giống loài chúng ta bởi vì những ứng dụng nó mang đến cho khoa học và công nghệ, nhưng đó không phải lý do chúng ta làm toán. Chúng ta không nghĩ về sự quan trọng của nó trong ứng dụng thực tiễn khi chúng ta thích thú sáng tạo những thứ toán học mới, cũng như chúng ta không nghĩ về tầm quan trọng của việc trộn lẫn DNA khi làm tình.
 
-![Matilde Marcolli](./images/Matilde%20Marcolli.jpg)
-
+<div align="center">
+    <img alt="Matilde Marcoll" src="./images/Matilde Marcolli.jpg">
+</div>
