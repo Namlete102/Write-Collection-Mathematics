@@ -10,8 +10,12 @@
 
 <p style="margin-left: 30px;">Toán học là một hoạt động tri thức, được cho là một trong những hoạt động tinh tế nhất từng được tạo ra bởi văn minh nhân loại . . .</p>
 
+--- 
+
 <!-- footer -->
 
 <center>
-    <a href="https://github.com/Namlete102/Write-Collection-Mathematics" target="_blank">Github</a>.<a href="https://namlete102.github.io/Namleteblog.github.io/" target="_blank">Liên hệ</a>
+    <a href="https://github.com/Namlete102/Write-Collection-Mathematics" target="_blank" style="padding-right: 2px;">Github</a>
+    .
+    <a href="https://namlete102.github.io/Namleteblog.github.io/" target="_blank" style="padding-left: 2px;">Liên hệ</a>
 <center>
