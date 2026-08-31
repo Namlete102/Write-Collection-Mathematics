@@ -1,17 +1,21 @@
 |[Trang chủ](https://namlete102.github.io/Write-Collection-Mathematics/)|[Lưu trữ](https://namlete102.github.io/Write-Collection-Mathematics/archive.html)|[Thẻ](https://namlete102.github.io/Write-Collection-Mathematics/tag.html)|[Giới thiệu](https://namlete102.github.io/Write-Collection-Mathematics/about.html)|
 
+<!-- title -->
+
 <div align="center">
-    <h2><b>Mathematics as Culture and Knowledge - Toán học như văn hóa và tri thức</b></h2>
+    <span><h2><b>Mathematics as Culture and Knowledge - Toán học như văn hóa và tri thức</b></h2></span>
+    <span><a href="" target="_blank">(pdf)</a></span>
 </div>
 
-<span>
-    2025-08-04
-</span>
-<span>
-    <div align="right">
-        <a href="https://namlete102.github.io/Write-Collection-Mathematics/tag/collection.html" style="margin-right: 10px;">Sưu tập</a><a href="">Lịch sử và góc nhìn</a>
-    </div>
-</span> 
+<!--  -->
+
+<div align="center">
+    <span style="padding-right: 5px;">2025-08-04</span>
+    <span><a href="" style="padding-right: 5px;">Sưu tập</a></span>
+    <span><a href="" style="padding-right: 5px;">Lịch sử và góc nhìn</a></span>
+</div>
+
+<!-- content -->
 
 **Tác giả**: Matilde Marcolli, Max-Planck-Institut für Mathematik, Bonn.
 
