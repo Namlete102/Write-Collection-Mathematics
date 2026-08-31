@@ -1,8 +1,10 @@
 <!-- menu -->
 
-|[Trang chủ](https://namlete102.github.io/Write-Collection-Mathematics/)|[Lưu trữ](https://namlete102.github.io/Write-Collection-Mathematics/archive.html)|Thẻ|[Giới thiệu](https://namlete102.github.io/Write-Collection-Mathematics/about.html)|
+|[Trang chủ](https://namlete102.github.io/Write-Collection-Mathematics/)|[Lưu trữ](https://namlete102.github.io/Write-Collection-Mathematics/archive.html)|[Thẻ](https://namlete102.github.io/Write-Collection-Mathematics/tag.html)|[Giới thiệu](https://namlete102.github.io/Write-Collection-Mathematics/about.html)|
 
+<!-- title -->
 
+## Tiêu đề 
 
 <!-- content -->
 

@@ -1,6 +1,6 @@
 |[Trang chủ](./README.md)|[Lưu trữ](./archive.md)|[Thẻ](./tag.md)|Giới thiệu|
 
-Nơi tôi viết và sưu tập cái bài viết liên quan về toán học. 
+Nơi tôi viết và sưu tập các bài viết liên quan về toán học. 
 
 ---
 
