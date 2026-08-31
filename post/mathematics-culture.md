@@ -4,6 +4,15 @@
     <h2><b>Mathematics as Culture and Knowledge - Toán học như văn hóa và tri thức</b></h2>
 </div>
 
+<span>
+    2025-08-04
+</span>
+<span>
+    <div align="right">
+        <a href="https://namlete102.github.io/Write-Collection-Mathematics/tag/collection.html" style="margin-right: 10px;">Sưu tập</a><a href="">Lịch sử và góc nhìn</a>
+    </div>
+</span> 
+
 **Tác giả**: Matilde Marcolli, Max-Planck-Institut für Mathematik, Bonn.
 
 **Từ cuốn sách** : The unravelers mathematical snapshots
