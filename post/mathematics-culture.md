@@ -56,3 +56,9 @@ Câu trả lời cuối cùng, nếu ai đó cần, cho câu hỏi là tại sao
 <div align="center">
     <img alt="Matilde Marcoll" src="./images/Matilde Marcolli.jpg">
 </div>
+
+<!-- footer -->
+
+<center>
+    <a href="https://github.com/Namlete102/Write-Collection-Mathematics" target="_blank">Github</a>.<a href="https://namlete102.github.io/Namleteblog.github.io/" target="_blank">Liên hệ</a>
+<center>
