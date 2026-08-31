@@ -8,7 +8,7 @@
 
 + 2025-08-04: [Mathematics as Culture and Knowledge - Toán học như văn hóa và tri thức](https://namlete102.github.io/Write-Collection-Mathematics/post/mathematics-culture.html) 
 
-<p style="margin-left: 25px;">Toán học là một hoạt động tri thức, được cho là một trong những hoạt động tinh tế nhất từng được tạo ra bởi văn minh nhân loại . . .</p>
+<p style="margin-left: 30px;">Toán học là một hoạt động tri thức, được cho là một trong những hoạt động tinh tế nhất từng được tạo ra bởi văn minh nhân loại . . .</p>
 
 ---
 

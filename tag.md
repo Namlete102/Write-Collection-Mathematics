@@ -1,4 +1,4 @@
-|[Trang chủ](./README.md)|Lưu trữ|[Thẻ](./tag.md)|[Giới thiệu](./about.md)|
+|[Trang chủ](./README.md)|[Lưu trữ](./archive.md)|Thẻ|[Giới thiệu](./about.md)|
 
 + [Sưu tập](./tag/collection.md)
 + [Lịch sử và góc nhìn]() 
