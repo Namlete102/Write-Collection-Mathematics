@@ -4,7 +4,7 @@
 
 <!-- title -->
 
-## Sưu tập
+## Lịch sử và góc nhìn
 
 <!-- content -->
 

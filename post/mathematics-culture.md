@@ -16,7 +16,7 @@
 <div align="center" style="margin-bottom: 20px;">
     <span style="padding-right: 5px; color:grey;">2025-08-04</span>
     <span><a href="https://namlete102.github.io/Write-Collection-Mathematics/tag/collection.html" style="padding-right: 5px;">Sưu tập</a></span>
-    <span><a href="#" style="padding-right: 5px;">Lịch sử và góc nhìn</a></span>
+    <span><a href="https://namlete102.github.io/Write-Collection-Mathematics/tag/history.html" style="padding-right: 5px;">Lịch sử và góc nhìn</a></span>
 </div>
 
 <!-- content -->
