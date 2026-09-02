@@ -11,6 +11,10 @@
 + [Mathematics as Culture and Knowledge - Toán học như văn hóa và tri thức](./post/mathematics-culture.md) 
 
 
+# 2024 
+
++ ["Nhà bác học", thiên tài và trí tưởng tượng](./post/polymath-genius-imagination.md)
+
 ---
 
 <!-- footer -->

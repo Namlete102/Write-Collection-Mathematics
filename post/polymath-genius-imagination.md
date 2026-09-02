@@ -7,7 +7,7 @@
 <div align="center">
     <span>
         <h2>
-            <b>“NHÀ BÁC HỌC”, THIÊN TÀI VÀ TRÍ TƯỞNG TƯỢNG</b> 
+            <b>"Nhà bác học", thiên tài và trí tưởng tượng</b> 
             <a href="#" target="_blank">(pdf)</a>
         </h2>
     </span>
@@ -16,8 +16,8 @@
 <!--  -->
 
 <div align="center" style="margin-bottom: 20px;">
-    <span><a href="#" style="padding-right: 5px;">Vật lý</a></span>
     <span style="padding-right: 5px; color:grey;">2024-11-14</span>
+    <span><a href="#" style="padding-right: 5px;">Vật lý</a></span>
     <span><a href="https://namlete102.github.io/Write-Collection-Mathematics/tag/collection.html" style="padding-right: 5px;">Sưu tập</a></span>
     <span><a href="https://namlete102.github.io/Write-Collection-Mathematics/tag/history.html" style="padding-right: 5px;">Lịch sử và góc nhìn</a></span>
 </div>
@@ -91,7 +91,7 @@ Chính khi đó Lamb và Rutherford đã công bố các kết quả đo của m
 
 Xuất phát từ giá trị thực nghiệm đó, Hans Bethe đã tiến hành một cách tính nhanh, trong đó ông sắp xếp sao cho hiệu ứng này bù trừ cho hiệu ứng kia để thử khử đi các phân kỳ, những số hạng có xu hướng tăng vô hạn sẽ bị chặn lại bằng cách như vậy ở một giá trị dường như chấp nhận được. Và ông đã thu được con số xấp xỉ một ngàn mêga Héc. Tôi nhớ là ông đã cho mời một số người đến chỗ ông ở Corneil, nhưng vì phải vắng mặt do công chuyện, ông đã gọi điện thoại cho chúng tôi và chia sẻ với tôi về những ý tưởng mà ông vừa nảy ra trong lúc ngồi trên tàu hoả. Sau khi trở về ít lâu, ông có giảng cho chúng tôi về vấn đề này, trong đó ông đã chỉ cho chúng tôi cách làm thế nào để tránh đươc các phân kỳ bằng thủ tục vừa nói ở trên. Nhưng vì tất cả vẫn còn quá mù mờ và có vẻ hơi tùy tiện, nên ông nói với chúng tôi rằng sẽ rất tốt nếu có ai đó làm lại lại chuyện này một cách thật đàng hoàng. Vào cuối buổi học, tôi tìm gặp ông và nói: “ Cũng dễ thôi! Tôi biết cách làm rồi”. Và ông thấy đấy, tôi đã bắt tay nghiên cứu vấn đề đó ngay từ năm học cuối cùng của tôi ở MIT (Massachuset Institute of Technology – một trong số những trường đại học nổi tiếng nhất của Mỹ - ND). Ngay thời gian đó, tôi thậm chí còn biên soạn xong cả một lời giải nhưng ...tất nhiên là sai ! Sự đóng góp của chúng tôi, gồm Schwinger, Tomonaga và tôi, là ở chỗ tìm ra được một phương cách biến thủ tục của Bethe thành một phương pháp tính chặt chẽ, hay nói theo thuật ngữ chuyên môn là thoả mãn được yêu cầu bất biến tương đối từ đầu đến cuối. Tomonaga đã chỉ ra được một phương pháp khả dĩ, Schwinger thì đang xây dựng một phương pháp khác. Còn tôi tới gặp Bethe để trình với ông phương riêng của mình. Điều khôi hài là lúc đó tôi không làm sao giải được cụ thể một bài toán thực tế, dù là đơn giản nhất trong lĩnh vực đó. Lẽ ra tôi phải tập làm điều đó trước đã mới phải, nhưng tôi lại quá bận tâm về lý thuyết riêng của mình...Nói một cách ngắn gọn là tôi không thể thấy những ý tưởng của mình có ổn hay không. Bethe và tôi cùng nhau tính ngay trên bảng...và chúng tôi đã không tìm được kết quả đúng. Thậm chí còn tồi tệ hơn cả trước. Tôi trở về nhà và quyết định phải tập luyện trên các ví dụ. Sau khi làm thử như thế, tôi trở lại gặp Bethe và chúng tôi lại cùng nhau tính lại, và lần này thì mọi chuyện ... thật tốt đẹp. Chúng tôi không bao giờ hiểu được lần đầu tiên chúng tôi đã phạm sai lầm ở đâu. Có thể là một lỗi ngớ ngẩn nào đó cũng nên...
 
-
+--- 
 
 <!-- footer -->
 

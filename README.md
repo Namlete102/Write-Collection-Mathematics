@@ -15,17 +15,16 @@
 
 <!-- 2025 -->
 
-[Mathematics as Culture and Knowledge - Toán học như văn hóa và tri thức](./post/mathematics-culture.md)<span style="color:grey;">(2025-08-04)</span>
+[Mathematics as Culture and Knowledge - Toán học như văn hóa và tri thức](./post/mathematics-culture.md)
+ <span style="color:grey;">(2025-08-04)</span>
 
 <p style="margin-left: 30px;">Toán học là một hoạt động tri thức, được cho là một trong những hoạt động tinh tế nhất từng được tạo ra bởi văn minh nhân loại . . .</p>
 
 <!-- 2024 -->
 
-["Nhà bác học", thiên tài và trí tưởng tượng](./post/polymath-genius-imagination.md)<span style="color:grey;">(2024-11-14)</span>
+["Nhà bác học", thiên tài và trí tưởng tượng](./post/polymath-genius-imagination.md) <span style="color:grey;">(2024-11-14)</span>
 
 <p style="margin-left: 30px;">Vật lý? Với ai đó, chỉ cần sở hữu một trong các chức danh, phần thưởng kể trên cũng thừa đủ để nhấm nháp vinh quang suốt cả đời. Nhưng, với Feynman thì tất cả tước hiệu, phẩm bậc, phần thưởng chưa bao giờ là mục đích của đời ông. Feynman như một lãng tử suốt đời chìm trong đam mê: mê chơi trống, mê vẽ tranh, mê bẻ mã khoá, mê lý giải các ký tự của người Maya, mê ngồi ở các quán bar, mê kỹ thuật, mê giảng dạy, và đặc biệt là mê “chơi” vật lý. Ông gọi “nghiên cứu” là “chơi” – mà đã chơi thì phải hết mình. Richard Feynman là một thiên tài vật lý, là một anh hề, hay cả hai – như Freeman Dyson đã viết trong lời tựa cuốn bán tự truyện của Feynman – The pleasure of finding things out (bản tiếng Việt: Niềm vui khám phá, NXB Trẻ 2009). Đam mê, hài hước, hết mình và trung thực tuyệt đối, đó là những gì làm nên nhân cách Feynman.</p>
-
-
 
 --- 
 
