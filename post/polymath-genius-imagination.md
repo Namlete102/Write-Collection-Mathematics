@@ -17,7 +17,7 @@
 
 <div align="center" style="margin-bottom: 20px;">
     <span style="padding-right: 5px; color:grey;">2024-11-14</span>
-    <span><a href="#" style="padding-right: 5px;">Vật lý</a></span>
+    <span><a href="https://namlete102.github.io/Write-Collection-Mathematics/tag/physics.html" style="padding-right: 5px;">Vật lý</a></span>
     <span><a href="https://namlete102.github.io/Write-Collection-Mathematics/tag/collection.html" style="padding-right: 5px;">Sưu tập</a></span>
     <span><a href="https://namlete102.github.io/Write-Collection-Mathematics/tag/history.html" style="padding-right: 5px;">Lịch sử và góc nhìn</a></span>
 </div>
@@ -30,7 +30,7 @@ Vật lý? Với ai đó, chỉ cần sở hữu một trong các chức danh, p
     <img alt="Richard Feynman" src="./images/Richard_Feynman.jpg">
 </div>
 
-<center>Nhà vật lý Richard Feynman. Nguồn ảnh: https://commons.wikimedia.org/wiki/File:Richard_Feynman_undated.png</center>
+<center style="margin-bottom:10px;">Nhà vật lý Richard Feynman. Nguồn ảnh: [https://commons.wikimedia.org/wiki/File:Richard_Feynman_undated.png](https://commons.wikimedia.org/wiki/File:Richard_Feynman_undated.png)</center>
 
 Bài phỏng vấn với nhà vật lý Mỹ Richard Feynman vào cuối năm 1980 của tạp chí La Recherche , một tạp chí phổ biến khoa học nổi tiếng của Pháp. Bài phỏng vấn này đã được chọn là một trong những bài báo hay nhất và được đăng lại trong số đặc biệt kỷ niệm 30 năm thành lập của tạp chí này. Mặc dù bài viết đã lâu, nhưng những ý kiến của Feynman đến nay vẫn còn nguyên giá trị. Mình xin trân trọng gửi đến các bạn đọc bài phỏng vấn đó qua bản dịch của Phạm Văn Thiều  .
 

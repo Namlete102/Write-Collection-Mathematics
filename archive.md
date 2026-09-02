@@ -15,6 +15,8 @@
 
 + ["Nhà bác học", thiên tài và trí tưởng tượng](./post/polymath-genius-imagination.md)
 
++ [Lev Tolstoy và toán học](./post/levtolstoy-mathematics.md)
+
 ---
 
 <!-- footer -->

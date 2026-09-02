@@ -1,6 +1,8 @@
 |[Trang chủ](./README.md)|[Lưu trữ](./archive.md)|Thẻ|[Giới thiệu](./about.md)|
 
++ [Toán học](./tag/mathematics.md)
 + [Vật lý](./tag/physics.md)
++ [Viết](./tag/writing.md)
 + [Sưu tập](./tag/collection.md)
 + [Lịch sử và góc nhìn](./tag/history.md) 
 
