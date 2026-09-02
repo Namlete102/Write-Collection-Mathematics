@@ -9,7 +9,7 @@
         <h2>
             <b>On proof and progress in mathematics - Về chứng minh và tiến bộ trong toán học</b> 
             <a href="./pdf/Về_chứng_minh_và_sự_tiến_bộ_trong_toán_học.pdf" target="_blank">(pdf)</a>,
-            <a href="#" target="_blank">HTML</a>
+            <a href="#">html</a>
         </h2>
     </span>
 </div>
@@ -25,5 +25,3 @@
 Từ bài báo : [ON PROOF AND PROGRESS IN MATHEMATICS](https://arxiv.org/pdf/math/9404236)
 
 Dịch: Nguyễn Dzuy Khánh đăng trên [tạp chí Epsilon](https://epsilonvn.github.io/) số thứ 4 và thứ 5. 
-
-<!-- content -->

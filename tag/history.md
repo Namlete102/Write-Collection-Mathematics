@@ -12,7 +12,7 @@
 
 <p style="margin-left: 30px;">Toán học là một hoạt động tri thức, được cho là một trong những hoạt động tinh tế nhất từng được tạo ra bởi văn minh nhân loại . . .</p>
 
-+ 2026-09-01: [On proof and progress in mathematics - Về chứng minh và tiến bộ trong toán học]()
++ 2026-09-01: [On proof and progress in mathematics - Về chứng minh và tiến bộ trong toán học](https://namlete102.github.io/Write-Collection-Mathematics/post/proof-progress-mathematics.html)
 
 <p style="margin-left: 30px;">Bài viết này trình bày về bản chất của phép chứng minh và tiến bộ trong toán học, được khuyến khích bởi bài báo của Jaffe và Quinn, <i>“Theoretical Mathematics: Toward a cultural synthesis of mathematics and theoretical physics”</i> (Toán học lý thuyết: Hướng tới sự tổng hợp mang tính văn hóa của toán học và vật lý lý thuyết). Bài báo của họ nêu lên nhiều vấn đề thú vị mà các nhà toán học cần quan tâm tới nhiều hơn, nhưng nó cũng duy trì một số niềm tin và thái độ cần bị nghi ngờ và cần được kiểm chứng.</p>
 

@@ -2,9 +2,14 @@
 
 |[Trang chủ](./README.md)|Lưu trữ|[Thẻ](./tag.md)|[Giới thiệu](./about.md)|
 
+# 2026
+
++ [ On proof and progress in mathematics - Về chứng minh và tiến bộ trong toán học](./post/proof-progress-mathematics.md)
+
 # 2025
 
 + [Mathematics as Culture and Knowledge - Toán học như văn hóa và tri thức](./post/mathematics-culture.md) 
+
 
 ---
 
