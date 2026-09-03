@@ -22,7 +22,7 @@
 
 <!-- 2024 -->
 
-[Thư của Kapitsa về khoa học](./post/kapitsa-science.md) <span style="color:grey;">(2024-12-31)</span>
+[Thư của Kapitsa về khoa học](./post/kapitsa-science.md) <span style="color:grey;">(2024-12-31)</span> <span><a href="https://namlete102.github.io/Write-Collection-Mathematics/tag/physics.html" style="padding-right: 5px;">Vật lý</a></span> <span><a href="https://namlete102.github.io/Write-Collection-Mathematics/tag/collection.html" style="padding-right: 5px;">Sưu tập</a></span> <span><a href="https://namlete102.github.io/Write-Collection-Mathematics/tag/history.html" style="padding-right: 5px;">Lịch sử và góc nhìn</a></span>
 
 <p style="margin-left: 30px;">Từ lâu khi nhắc đến nền khoa học nước Nga, không thiếu những ngôi sao sáng cống hiến cho lịch sử khoa học thế giới trải dài trên nhiều lĩnh vực khác nhau. Tất cả những thành tựu đó không chỉ khẳng định vị thế của nước Nga trên bản đồ khoa học thế giới mà còn là nguồn cảm hứng vô tận cho các thế hệ khoa học gia tương lai. Hình ảnh những nhà khoa học Nga tận tụy, kiên trì vượt qua những khó khăn của thời đại để theo đuổi tri thức là minh chứng sống động cho sức mạnh của niềm đam mê và trí tuệ con người. Chính tinh thần ấy đã và đang truyền lửa cho các nhà khoa học trẻ, không chỉ ở Nga mà còn trên khắp thế giới, tiếp tục khám phá những chân trời tri thức mới, đóng góp vào sự tiến bộ chung của nhân loại.
 </p>
