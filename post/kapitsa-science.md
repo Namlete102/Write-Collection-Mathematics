@@ -7,21 +7,20 @@
 <div align="center">
     <span>
         <h2>
-            <b>Lev Tolstoy và toán học</b> 
+            <b>Thư của Kapitsa về khoa học</b> 
             <a href="#">pdf</a>,
-            <a href="https://namlete102.github.io/LevTolstoy-mathematics/">html</a>
         </h2>
     </span>
 </div>
 
-<!-- tag -->
+<!--  -->
 
 <div align="center" style="margin-bottom: 20px;">
-    <span style="padding-right: 5px; color:grey;">2024-09-08</span>
-    <span><a href="https://namlete102.github.io/Write-Collection-Mathematics/tag/mathematics.html" style="padding-right: 5px;">Toán học</a></span>
-    <span><a href="https://namlete102.github.io/Write-Collection-Mathematics/tag/writing.html" style="padding-right: 5px;">Viết</a></span>
+    <span style="padding-right: 5px; color:grey;">2024-11-14</span>
+    <span><a href="https://namlete102.github.io/Write-Collection-Mathematics/tag/physics.html" style="padding-right: 5px;">Vật lý</a></span>
+    <span><a href="https://namlete102.github.io/Write-Collection-Mathematics/tag/collection.html" style="padding-right: 5px;">Sưu tập</a></span>
+    <span><a href="https://namlete102.github.io/Write-Collection-Mathematics/tag/history.html" style="padding-right: 5px;">Lịch sử và góc nhìn</a></span>
 </div>
-
 ---
 
 <!-- footer -->
@@ -31,4 +30,3 @@
     .
     <a href="https://namlete102.github.io/Namleteblog.github.io/" target="_blank" style="padding-left: 2px;">Liên hệ</a>
 <center>
-
