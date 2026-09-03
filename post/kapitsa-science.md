@@ -30,7 +30,7 @@ Nhân dịp cuối năm 2024 này, xin gửi các bạn đọc những bức th�
 
 <div align="center">
     <img src="./images/Kapitsa.jpg" alt="kapitsa">
-<div>
+</div>
 
 <center>Nhà vật lý Nga Pyotr Kapitsa</center>
 
