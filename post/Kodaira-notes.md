@@ -17,7 +17,7 @@
 
 <div align="center" style="margin-bottom: 20px;">
     <span style="padding-right: 5px; color:grey;">2026-03-30</span>
-    <span><a href="https://namlete99.github.io/Write-Collection-Mathematics/tag/mathematics.html" style="padding-right: 5px;">Toán</a></span>
+    <span><a href="https://namlete102.github.io/Write-Collection-Mathematics/tag/mathematics.html" style="padding-right: 5px;">Toán</a></span>
     <span><a href="https://namlete102.github.io/Write-Collection-Mathematics/tag/collection.html" style="padding-right: 5px;">Sưu tập</a></span>
     <span><a href="https://namlete102.github.io/Write-Collection-Mathematics/tag/history.html" style="padding-right: 5px;">Lịch sử và góc nhìn</a></span>
 </div>
@@ -25,7 +25,7 @@
 <!-- contents -->
 
 <div align="center">
-    <b>Người dịch: Phạm Tiến Đạt từ <a href="https://diendantoanhoc.org/topic/197262-b%E1%BA%A3n-d%E1%BB%8Bch-while-working-on-my-notes-kodaira/" targer="_blank">Diễn đàn toán học VMF</a></b>
+    <b>Người dịch: Phạm Tiến Đạt từ <a href="https://diendantoanhoc.org/topic/197262-b%E1%BA%A3n-d%E1%BB%8Bch-while-working-on-my-notes-kodaira/" target="_blank">Diễn đàn toán học VMF</a></b>
 </div>
 
 Không có gì khó đọc hơn với tôi là các cuốn sách (và bài báo) về toán học. Đọc một quyển
