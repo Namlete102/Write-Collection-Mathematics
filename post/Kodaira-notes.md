@@ -7,9 +7,8 @@
 <div align="center">
     <span>
         <h2>
-            <b>On proof and progress in mathematics - Về chứng minh và tiến bộ trong toán học</b> 
-            <a href="./pdf/Về_chứng_minh_và_sự_tiến_bộ_trong_toán_học.pdf" target="_blank">(pdf)</a>,
-            <a href="#">html</a>
+            <b>While Working on my Notes</b> 
+            <a href="./pdf/Dịch While Working on my Notes.pdf" target="_blank">(pdf)<a>
         </h2>
     </span>
 </div>
@@ -17,7 +16,7 @@
 <!-- tag -->
 
 <div align="center" style="margin-bottom: 20px;">
-    <span style="padding-right: 5px; color:grey;">2026-09-01</span>
+    <span style="padding-right: 5px; color:grey;">2026-03-30</span>
     <span><a href="https://namlete99.github.io/Write-Collection-Mathematics/tag/mathematics.html" style="padding-right: 5px;">Toán</a></span>
     <span><a href="https://namlete102.github.io/Write-Collection-Mathematics/tag/collection.html" style="padding-right: 5px;">Sưu tập</a></span>
     <span><a href="https://namlete102.github.io/Write-Collection-Mathematics/tag/history.html" style="padding-right: 5px;">Lịch sử và góc nhìn</a></span>
@@ -25,9 +24,9 @@
 
 <!-- contents -->
 
-Từ bài báo : [ON PROOF AND PROGRESS IN MATHEMATICS](https://arxiv.org/pdf/math/9404236)
-
-Dịch: Nguyễn Dzuy Khánh đăng trên [tạp chí Epsilon](https://epsilonvn.github.io/) số thứ 4 và thứ 5. 
+<div align="center">
+    <b>Người dịch: Phạm Tiến Đạt từ <a href="https://diendantoanhoc.org/topic/197262-b%E1%BA%A3n-d%E1%BB%8Bch-while-working-on-my-notes-kodaira/" targer="_blank">Diễn đàn toán học VMF</a></b>
+</div>
 
 ---
 

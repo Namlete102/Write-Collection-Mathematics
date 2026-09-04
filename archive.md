@@ -6,6 +6,8 @@
 
 + [ On proof and progress in mathematics - Về chứng minh và tiến bộ trong toán học](./post/proof-progress-mathematics.md)
 
++ [While Working on my Notes](./post/Kodaira-notes.md)
+
 # 2025
 
 + [Mathematics as Culture and Knowledge - Toán học như văn hóa và tri thức](./post/mathematics-culture.md) 
