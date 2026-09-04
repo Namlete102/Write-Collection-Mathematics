@@ -25,7 +25,7 @@
 <!-- contents -->
 
 <center>
-    <b>Người dịch: Phạm Tiến Đạt từ<a href="https://diendantoanhoc.org/topic/197262-b%E1%BA%A3n-d%E1%BB%8Bch-while-working-on-my-notes-kodaira/" target="_blank">Diễn đàn toán học VMF</a></b>
+    <b>Người dịch: Phạm Tiến Đạt từ <a href="https://diendantoanhoc.org/topic/197262-b%E1%BA%A3n-d%E1%BB%8Bch-while-working-on-my-notes-kodaira/" target="_blank">Diễn đàn toán học VMF</a></b>
 </center>
 
 Không có gì khó đọc hơn với tôi là các cuốn sách (và bài báo) về toán học. Đọc một quyển sách toán với hàng trăm trang từ đầu đến cuối là một nhiệm vụ gian truân. Khi bạn mở một quyển sách, bạn thường bắt gặp một vài định nghĩa và tiên đề, tiếp theo là định lý và chứng minh. Bởi vì toán học trở nên đơn giản và dễ dàng khi bạn có được trực giác, bạn cố gắng để
