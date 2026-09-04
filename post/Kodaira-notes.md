@@ -24,14 +24,11 @@
 
 <!-- contents -->
 
-<div align="center">
-    <b>Người dịch: Phạm Tiến Đạt từ <a href="https://diendantoanhoc.org/topic/197262-b%E1%BA%A3n-d%E1%BB%8Bch-while-working-on-my-notes-kodaira/" target="_blank">Diễn đàn toán học VMF</a></b>
-</div>
+<center>
+    <b>Người dịch: Phạm Tiến Đạt từ</b>
+</center>
 
-Không có gì khó đọc hơn với tôi là các cuốn sách (và bài báo) về toán học. Đọc một quyển
-sách toán với hàng trăm trang từ đầu đến cuối là một nhiệm vụ gian truân. Khi bạn mở một
-quyển sách, bạn thường bắt gặp một vài định nghĩa và tiên đề, tiếp theo là định lý và chứng
-minh. Bởi vì toán học trở nên đơn giản và dễ dàng khi bạn có được trực giác, bạn cố gắng để
+Không có gì khó đọc hơn với tôi là các cuốn sách (và bài báo) về toán học. Đọc một quyển sách toán với hàng trăm trang từ đầu đến cuối là một nhiệm vụ gian truân. Khi bạn mở một quyển sách, bạn thường bắt gặp một vài định nghĩa và tiên đề, tiếp theo là định lý và chứng minh. Bởi vì toán học trở nên đơn giản và dễ dàng khi bạn có được trực giác, bạn cố gắng để
 đạt được bằng cách đọc các định lý và thử chứng minh chúng. Rất có thể, suy nghĩ của bạn
 không đi được xa, vì thế bạn không còn cách nào khác ngoài việc đọc chứng minh trong sách,
 nhưng chỉ đọc một hoặc hai lần thì vẫn không thể hiểu được. Đó là tại sao bạn chép chứng minh
