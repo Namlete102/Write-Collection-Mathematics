@@ -83,7 +83,7 @@ Hoàn cảnh mà chúng ta đang phải đối mặt ngày nay giống với câ
 Bây giờ có lẽ sơ sẽ hỏi,
 
 <div align="center">
-    “Tại sao ông không lấy 3 hoặc 5 đô hay thậm chí 1 đô la từ số tiền 30 đô la mà một người Mỹ đang đóng đó để ủng hộ cho những trẻ em đang chết đói?" 
+    <b>“Tại sao ông không lấy 3 hoặc 5 đô hay thậm chí 1 đô la từ số tiền 30 đô la mà một người Mỹ đang đóng đó để ủng hộ cho những trẻ em đang chết đói?"</b> 
 </div>
 
 Để trả lời câu hỏi này, tôi sẽ phải giải thích cho sơ một cách ngắn gọn về cách thức hoạt động của nền kinh tế đất nước này. Có lẽ mọi thứ cũng tương tự ở các quốc gia khác. Chính quyền của một quốc gia sẽ bao gồm nhiều ban ngành ( Tư pháp, Y tế, Giáo dục, Giao thông, Quân đội, ... ) và phòng ban, tổ chức khác nhau (Viện Khoa học Quốc gia, Học viện Chính trị Quốc gia, ... ). Tất cả những ban ngành, tổ chức này sẽ phải chuẩn bị để đề xuất ngân sách hàng năm dựa trên các nhiệm vụ mà mỗi ban ngành, tổ chức được giao. Sau đó, mỗi ban ngành, tổ chức sẽ phải trình bày và bảo vệ những đề xuất này dưới sự xem xét sát sao của Quốc hội, cũng như áp lực rất lớn về mục đích kinh tế trước Cục Ngân sách Quốc gia và Tổng thống. Sau khi ngân sách này được chấp thuận bởi Quốc hội, họ chỉ có thể sử dụng tiền vào những danh mục đã được chấp thuận.
@@ -93,7 +93,7 @@ Ngân sách của Cơ quan Hàng không và Vũ trụ Quốc gia theo đó cơ b
 Bây giờ sơ có thể hỏi
 
 <div align="center">
-    "Liệu Chính phủ có sẵn lòng ủng hộ tôi thực hiện việc đó hay không ?"
+    <b>"Liệu Chính phủ có sẵn lòng ủng hộ tôi thực hiện việc đó hay không ?"</b>
 </div>
 
 Tôi muốn nhấn mạnh câu trả lời là có. Thực sự, tôi chẳng hề phiền lòng chút nào nếu mức thuế mà tôi phải đóng hàng năm tăng lên đôi chút cho mục đích giúp trẻ em nghèo có thêm vài bữa ăn, dù chúng sống ở đâu đi chăng nữa.
@@ -121,7 +121,7 @@ Chưa bao giờ trong lịch sử của ngành kỹ thuật chúng ta phải đ�
 Tất cả những kiến thức kỹ thuật mới này đều có thể được áp dụng cho các sản phẩm dưới mặt đất. Mỗi năm, hàng ngàn những phát mình trong các chương trình không gian được nhìn thấy trong những ngành khác, giúp cho con người có được những công cụ làm bếp tốt hơn, những máy móc tốt hơn cho việc đồng áng, máy may quần áo tốt hơn, vô tuyến tốt hơn, tàu bè và máy bay tốt hơn, khả năng dự báo thời tiết và bão lũ tốt hơn, các kênh liên lạc tốt hơn, các thiết bị y tế tốt hơn và các công cụ thiết yếu khác cho đời sống của chúng ta. Tôi cho rằng lúc này sơ sẽ tiếp tục thắc mắc,
 
 <div align="center">
-    Tại sao chúng ta phải phát triển hẳn một hệ thống hỗ trợ sự sống cho các phi hành gia trên mặt trăng, trước khi chúng ta có thể xây dựng một hệ thống cảm biến từ xa cho các bệnh nhân bị bệnh tim mạch? 
+    <b>Tại sao chúng ta phải phát triển hẳn một hệ thống hỗ trợ sự sống cho các phi hành gia trên mặt trăng, trước khi chúng ta có thể xây dựng một hệ thống cảm biến từ xa cho các bệnh nhân bị bệnh tim mạch?</b>
 </div>
 
 Câu trả lời rất đơn giản: sự đột phá trong việc tìm kiếm các giải pháp cho những vấn đề hóc búa thường không xuất hiện bằng các phương pháp trực tiếp, nhưng lại bằng cách đặt ra mục tiêu giải quyết những thử thách lớn hơn. Những thử thách này sẽ là động lực mạnh mẽ buộc phải tạo ra những cách làm tân tiến, làm nhiên liệu thúc đẩy con người phải cố gắng hết sức mình, và chính điều đó là chất xúc tác để tạo ra một loạt các phản ứng khác, mà kết quả là những phát minh vĩ đại mà chúng ta đang sử dụng.
