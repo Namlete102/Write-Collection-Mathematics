@@ -73,6 +73,13 @@ không liên quan đến chuyên ngành của bạn và không hiểu các đị
 chứng lại các chứng minh là dấu hiệu cho thấy trực giác của bạn về lĩnh vực đó chưa trưởng
 thành.
 
+<div align="center">
+    <img alt="Kunihiko Kodaira" src="./images/Kunihiko Kodaira.jpg">
+</div>
+
+<center>Nhà toán hoc người Nhật Bản Kunihiko Kodaira</center>
+
+
 ## Tài liệu:
 
 [1] Kunihiko Kodaira, *While Working on my Notes*, Suugaku Seminar, August 1980.
