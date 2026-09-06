@@ -23,7 +23,7 @@
     <span><a href="https://namlete102.github.io/Write-Collection-Mathematics/tag/history.html" style="padding-right: 5px;">Lịch sử và góc nhìn</a></span>
 </div> 
 
-Bài viết gốc được đăng trên Spiderum, được viết bởi The Merc. 
+Bài viết gốc được viết bởi The Merc, đăng trên Spiderum. 
 
 --- 
 
