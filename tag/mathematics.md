@@ -30,6 +30,9 @@
 
 <p style="margin-left: 30px;">Ai cũng biết Lev Tolstoy là nhà văn lớn của nước Nga (1828 – 1910). Nhưng ít người biết rằng ông đồng thời cũng là tác giả của nhiều bài toán hay. Tư duy văn học hình tượng và tư duy toán học chính xác cùng hòa chung trong bộ óc của ông.</p>
 
++ 2024-06-08: [Số học và cuộc sống](https://namlete102.github.io/Write-Collection-Mathematics/post/algebra-life.html)
+
+<p style="margin-left: 30px;">Tất cả mọi sự so sánh đều khập khiễng, nhưng nếu sự so sánh kết nối được những thứ không liên quan với nhau thì đôi khi lại thật thú vị.</p>
 
 ---
 
