@@ -23,6 +23,8 @@
 
 + [Lev Tolstoy và toán học](./post/levtolstoy-mathematics.md)
 
++ [Số học và cuộc sống](./post/algebra-life.md)
+
 ---
 
 <!-- footer -->
