@@ -9,7 +9,7 @@
         <h2>
             <b>On proof and progress in mathematics - Về chứng minh và tiến bộ trong toán học</b> 
             <a href="./pdf/Về_chứng_minh_và_sự_tiến_bộ_trong_toán_học.pdf" target="_blank">(pdf)</a>,
-            <a href="#">html</a>
+            <a href="https://namlete102.github.io/On-proof-and-progress-in-mathematics-arxiv-asciidoc-demo/">html</a>
         </h2>
     </span>
 </div>
