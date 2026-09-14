@@ -1,4 +1,4 @@
-|[Trang chủ](./README.md)|[Lưu trữ](./archive.md)|Thẻ|[Giới thiệu](./about.md)|
+|[Trang chủ](./README.md)|[Lưu trữ](./archive.md)|Thẻ|[Giới thiệu](./about.md)|[Nháp](./draft.md)|
 
 + [Toán học](./tag/mathematics.md)
 + [Vật lý](./tag/physics.md)
