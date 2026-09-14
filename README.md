@@ -2,7 +2,7 @@
 
 <!-- menu -->
 
-|Trang chủ|[Lưu trữ](./archive.md)|[Thẻ](./tag.md)|[Giới thiệu](./about.md)|[Nháp](./draft.md)|
+|[Trang chủ]|[Lưu trữ](./archive.md)|[Thẻ](./tag.md)|[Nháp](./draft.md)|[Giới thiệu](./about.md)|
 
 <!-- content -->
 
