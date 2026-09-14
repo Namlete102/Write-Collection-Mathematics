@@ -8,6 +8,10 @@
 
 <!-- content -->
 
++ 2024-07-29: [Nicolas Bourbaki - Nhà toán học của thế kỉ 20]() 
+
+<p style="margin-left: 30px;">Đầu những năm 1930, trong làng Toán xuất hiện cái tên Nikolas Bourbaki, khiến cả làng Toán ngỡ ngàng. Một cái tên viết lại hầu hết lý thuyết Toán học đương đại, và vào các kí hiệu tập rỗng Ø, ký hiệu =>, các khái niệm song ánh, toàn ánh, đơn ánh ...</p>
+
 + 2024-08-09: [Lev Tolstoy và toán học](https://namlete102.github.io/Write-Collection-Mathematics/post/levtolstoy-mathematics.html)
 
 <p style="margin-left: 30px;">Ai cũng biết Lev Tolstoy là nhà văn lớn của nước Nga (1828 – 1910). Nhưng ít người biết rằng ông đồng thời cũng là tác giả của nhiều bài toán hay. Tư duy văn học hình tượng và tư duy toán học chính xác cùng hòa chung trong bộ óc của ông.</p>

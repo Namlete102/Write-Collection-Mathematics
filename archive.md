@@ -23,6 +23,8 @@
 
 + [Lev Tolstoy và toán học](./post/levtolstoy-mathematics.md)
 
++ [Nicolas Bourbaki - Nhà toán học của thế kỉ 20](./post/bourbaki-mathematics.md)
+
 + [Số học và cuộc sống](./post/algebra-life.md)
 
 ---
